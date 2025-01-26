@@ -1,0 +1,23 @@
+* {
+    background-color: #071d38;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #54e3ed;
+    margin-left: 50px;
+}
+
+ul {
+    list-style: none;
+    color: #54e3ed;
+}
+
+.link {
+    color: #54e3ed;
+}
+
+.seperator {
+    color: #32595c;
+}
